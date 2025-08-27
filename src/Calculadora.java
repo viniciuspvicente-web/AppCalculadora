@@ -4,4 +4,8 @@ public class Calculadora {
         return a + b;
     }
 
+    public static int subtracao(int a, int b) {
+        return a - b;
+    }
+
 }
